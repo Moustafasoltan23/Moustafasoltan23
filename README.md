@@ -1,34 +1,79 @@
-<h1 align="center">Hi 👋, I'm Moustafa Soltan</h1>
-<h3 align="center">Mobile Developer | Flutter, Kotlin, Jetpack Compose | Passionate About Clean Architecture</h3>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Moustafa+Soltan!+😎;" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moustafasoltan23&label=Profile%20views&color=0e75b6&style=flat" alt="moustafasoltan23" /> </p>
+<br>
 
-- 🔭 I’m currently working on **Software Engineer 💻| Mobile Application Developer 📱 .**
+## 🙋‍♂️ About Me:
 
-- 🌱 I’m currently learning **Android Jetpack component | Advanced Flutter.**
+- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
 
-- 👨‍💻 All of my projects are available at [https://github.com/Moustafasoltan23?tab=repositories](https://github.com/Moustafasoltan23?tab=repositories)
+- 🌱 I’m currently learning **Advanced Flutter** | **Android Jetpack Component **.
 
-- 📫 How to reach me **moustafasoltan85@gmail.com**
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Moustafasoltan23?tab=repositories)**.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SlRRu2bfYHjt-4L7VAcS4wgC7a5rq2o1/view?usp=sharing](https://drive.google.com/file/d/1SlRRu2bfYHjt-4L7VAcS4wgC7a5rq2o1/view?usp=sharing)
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/moustafasoltan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moustafasoltan3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/moustafasoltan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moustafasoltan" height="30" width="40" /></a>
-<a href="https://instagram.com/moustafa.soltan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moustafa.soltan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/moustafasoltan85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moustafasoltan85" height="30" width="40" /></a>
+## 🚀 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python,linux,cs,gradle,php" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman,xd,kotlin " /><br>
+</div>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 📊 My Stats:
+
+<p align="center">
+    <a href="https://github.com/Moustafasoltan23/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Moustafasoltan23's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Moustafasoltan23&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
+<a href="https://github.com/Moustafasoltan23/github-readme-stats"><img alt="Moustafasoltan23's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Moustafasoltan23a&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Moustafasoltan23/github-readme-stats"><img alt="AmmarAgeeza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moustafasoltan23&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+## 🤝 Connect With Me:
 
+<div align="center">
+    <a href="http://linkedin.com/in/moustafasoltan23" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+  <a href="mailto:moustafasoltan85@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+        <a href="https://drive.google.com/file/d/1SlRRu2bfYHjt-4L7VAcS4wgC7a5rq2o1/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
+  
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moustafasoltan23&show_icons=true&locale=en&layout=compact" alt="moustafasoltan23" /></p>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moustafasoltan23&show_icons=true&locale=en" alt="moustafasoltan23" /></p>
+## 💜 Views and Followers:
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MoustafaSoltan23&theme=aura-dark&border_radius=2.4&date_format=j%2Fn%5B%2FY%5D&mode=weekly&exclude_days=Sun" alt="GitHub Streak" /></a>
+<a href="https://github.com/Moustafasoltan23/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Moustafasoltan23">
+</a>
+<a href="https://github.com/Moustafasoltan23?tab=followers"><img src="https://img.shields.io/github/followers/AmmarAgeeza?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+</h3>
+
+<br/>
