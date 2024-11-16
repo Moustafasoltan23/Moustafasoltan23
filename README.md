@@ -66,6 +66,8 @@
 </div>
 <br>
 
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
 ## 💜 Views and Followers:
 
 <a href="https://github.com/Moustafasoltan23/github-profile-views-counter">
