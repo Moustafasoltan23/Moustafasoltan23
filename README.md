@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moustafasoltan23&show_icons=true&locale=en" alt="moustafasoltan23" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moustafasoltan23&" alt="moustafasoltan23" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MoustafaSoltan23&theme=aura-dark&border_radius=2.4&date_format=j%2Fn%5B%2FY%5D&mode=weekly&exclude_days=Sun" alt="GitHub Streak" /></a>
